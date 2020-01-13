@@ -3,25 +3,90 @@
 Termine
 =======
 
+2019
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 10, 20, 50, 20
+
+  "2019-12-05", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-12>`_"
+  "2019-11-07", "Maic Striepe", "Micropython", "`Anmeldung <https://trolug.pads.ccc.de/2019-11>`_"
+  "2019-10-03", "Dimitri Asarowski", "Betriebssystem Mensch - oder: Warum künstliche Intelligenz nicht möglich ist", "`Anmeldung <https://trolug.pads.ccc.de/2019-10>`_"
+  "2019-09-05", "Harald Weidner", "Die Programmiersprache Go", "`Anmeldung <https://trolug.pads.ccc.de/2019-09>`_"
+  "2019-08-01", "Rainer Dohmen", "MQTT mit Raspi und FHEM", "`Anmeldung <https://trolug.pads.ccc.de/2019-08>`_"
+  "2019-07-04", "Jan Grosser", "I survived a bruteforce attack", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-07-04>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-07-04_trolug_jan_grosser_bruteforce.pdf>`_"
+  "2019-06-06", "Michael Dupre", "Kartenleser und pcsclite", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-06-06>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_smartcards.pdf>`_, `Cardreader Bin <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader-bin>`_, `go Skript <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader.go>`_"
+  "2019-05-02", "Michael Dupre, Maic Striepe ", "SIM Karten, Tastenbelegung", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-05-02>`_"
+  "2019-04-04", "Alle", "Freies Thema", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-04-04>`_"
+  "2019-03-07", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-03-07>`_"
+  "2019-02-07", "Dimitry Asarowski", "LineageOS für Smartphones", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-02-07>`_"
+  "2019-01-03", "Harald Weidner", "Check_MK", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-01-03>`_"
+
+
+2018
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 10, 20, 50, 20
+
+  "2018-12-06", "Michael Dupre", "plantuml", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-12-06>`_"
+  "2018-11-01", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-11-01>`_"
+  "2018-10-04", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-10-04>`_"
+  "2018-09-06", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-09-06>`_"
+  "2018-08-02", "Rainer Dohmen", "FHEM - Heimautomation mit Raspberry Pi", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-08-02>`_"
+  "2018-07-05", "Alle", "Mozilla und Wireshark", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-07-05>`_"
+  "2018-06-07", "Michael Dupre", "IP-Tracer (mit Graphik und Einführung in gnuplot)", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-06-07>`_, `Files <http://downloads.trolug.de/2018-06-18-michael_dupre_gnuplot.tar.gz>`_"
+  "2018-05-03", "Harald Weidner", "Penetration Testing mit Nmap und OpenVAS", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-05-03>`_"
+  "2018-04-05", "Alle", "Lieblingstools kurz vorgestellt", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-04-05>`_"
+  "2018-03-01", "Andreas Klein", "Xrandr", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-03-01>`_"
+  "2018-02-01", "Harald Weidner", "Anwendungsvirtualisierung in Containern mit Docker", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-02-01>`_"
+  "2018-01-04", "Michael Dupre, Alle", "Client/Server mit Skriptsprache programmieren (mit und ohne TLS)", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-01-04>`_"
+
+
+2017
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 10, 20, 50, 20
+
+  "2017-12-07", "Alle", "Wikipedia editieren", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`_" 
+  "2017-11-02", "Alle", "Probleme lösen und Starthilfe für Einsteiger", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`_" 
+  "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`_"
+  "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`_" 
+  "2017-08-03", "Johannes Hubertz", "OpenVPN", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`_" 
+  "2017-07-06", "Alle", "Bericht vom Workshop Feinstaubsensoren bauen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-07-06>`_" 
+  "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", ":ref:`Workshop Details<luftdaten>`" 
+  "2017-06-01", "Alle", "Rund um Android", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-06-01>`_" 
+  "2017-05-04", "Andreas Klein; Jan Grosser", "BIOS-Update unter Linux, Monitor-Konfig; Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-05-04>`_" 
+  "2017-04-06", "Rainer Dohmen", "How I hacked my 433 Weather-Station", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-04-06>`_" 
+  "2017-03-02", "Johannes Hubertz", "Test Driven Development", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-03-02>`_" 
+  "2017-02-02", "Alle", "Probleme Lösen und Starthilfe für Linuxeinsteiger", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-02-02>`_"  
+  "2017-01-05", "Alle", "Aktuelle Sicherheitsfragen Browserplugins, Passwortsafe, Mail", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-01-05>`_" 
+
 2016
 ----
 
 .. csv-table::
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
-  :widths: 15, 20, 50, 15
+  :widths: 10, 20, 50, 20
 
-  "2016-12-01", "N.N.", "", "`Anmeldung <https://titanpad.com/fxiR3YYFAD>`_" 
-  "2016-11-03", "N.N.", "", "`Anmeldung <https://titanpad.com/HjcL3mjD6R>`_" 
-  "2016-10-06", "N.N.", "", "`Anmeldung <https://titanpad.com/67E7Cu6WHi>`_" 
-  "2016-09-01", "N.N.", "", "`Anmeldung <https://titanpad.com/GZBxoMT0wd>`_" 
-  "2016-08-04", "N.N.", "", "`Anmeldung <https://titanpad.com/E5DZs1dyAr>`_" 
-  "2016-07-07", "N.N.", "", "`Anmeldung <https://titanpad.com/6U0LhcJpmo>`_" 
-  "2016-06-02", "N.N.", "", "`Anmeldung <https://titanpad.com/3A3rd5Mchz>`_" 
-  "2016-05-12", "N.N.", "", "`Anmeldung <https://titanpad.com/NNrqGqOYa2>`_" 
-  "2016-04-07", "N.N.", "", "`Anmeldung <https://titanpad.com/TVsEReDjgI>`_" 
-  "2016-03-03", "Alle", "Retro Computer", "`Anmeldung <https://titanpad.com/CKenXL2ukg>`_" 
+  "2016-12-01", "Kay Malfeld", "Einstieg in Kernelprogrammierung und make files", "`Protokoll <https://trolug.titanpad.com/2016-12-01>`_" 
+  "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", "`Protokoll <https://trolug.titanpad.com/2016-11-03>`_" 
+  "2016-10-06", "Verschiedene", "Bash Kungfu", "`Protokoll <https://trolug.titanpad.com/2016-10-06>`_" 
+  "2016-09-01", "Verschiedene", "Editoren", "`Protokoll <https://trolug.titanpad.com/2016-09-01>`_" 
+  "2016-08-04", "Rainer Dohmen; Georg Maubach", "Mikrocontrollerprojekt Morse-Man; Access Points mit Einplatinenrechnern", "`Protokoll <https://trolug.titanpad.com/2016-08-04>`_" 
+  "2016-07-07", "Alle", "Gemeinsam Probleme lösen", "`Protokoll <https://trolug.titanpad.com/2016-07-07>`_" 
+  "2016-06-02", "Tobias Fröhlich", "git Teil III: Arbeiten in Teams und auf Servern", "`Protokoll <https://trolug.titanpad.com/2016-06-02>`_, `Vortragsfolien HTML <http://downloads.trolug.de/2016-05-12_trolug_tobias_froehlich_git_workshop.html>`_"
+  "2016-05-28", "Torben Keil", "Retro Computer III -- FÄLLT AUS!", "`Abgesagt <https://trolug.titanpad.com/2016-04-28>`_" 
+  "2016-05-14", "Torben Keil", "Retro Computer II", "`Protokoll <https://trolug.titanpad.com/2016-04-14>`_" 
+  "2016-05-12", "Jonas Stein, Tobias Fröhlich", "Bash-Tricks und Versionskontrolle mit git Teil I+II", "`Protokoll <https://trolug.titanpad.com/2016-04-12>`_, `Vortragsfolien HTML <http://downloads.trolug.de/2016-05-12_trolug_tobias_froehlich_git_workshop.html>`_"   
+  "2016-04-07", "Alle", "Voice over IP (VoIP)", "`Protokoll <https://titanpad.com/TVsEReDjgI>`_" 
+  "2016-03-03", "Alle", "Retro Computer I", "`Protokoll <https://titanpad.com/CKenXL2ukg>`_" 
   "2016-02-11", "Alle", "Platinen und elektronische Bauteile mit KiCad designen", "`Protokoll <https://titanpad.com/XXMqt9GilM>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2016-02-11_trolug_carsten_schoenert_kicad.pdf>`_" 
-  "2016-01-07", "Alle", "1. Icecast 2. Bunter Abend - Austausch und Probleme lösen", "`Anmeldung <https://titanpad.com/fJd6YWxvpe>`_" 
+  "2016-01-07", "Alle", "1. Icecast 2. Bunter Abend - Austausch und Probleme lösen", "`Protokoll <https://titanpad.com/fJd6YWxvpe>`_" 
 
 
 2015
@@ -29,7 +94,7 @@ Termine
 
 .. csv-table::
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
-  :widths: 15, 20, 50, 15
+  :widths: 10, 20, 50, 20
 
   "2015-12-03", "Alle", "Spiele unter Linux", "`Protokoll <https://titanpad.com/eli3VxIytW>`_" 
   "2015-11-14", "diverse", "Linux Presentation Day 2015", ":ref:`LPD 2015
